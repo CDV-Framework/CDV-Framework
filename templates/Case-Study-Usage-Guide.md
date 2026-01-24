@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-**Time to complete:** 20-40 hours depending on data availability
+**Time to complete:** 
 
 **Minimum requirements:**
 - Platform documentation
@@ -14,7 +14,7 @@
 
 ## Step-by-Step Process
 
-### Phase 1: Preparation (4-6 hours)
+### Phase 1: Preparation
 
 **1.1 Form Evaluation Team**
 - Minimum: 3 people
@@ -37,7 +37,7 @@
 
 ---
 
-### Phase 2: Data Collection (10-15 hours)
+### Phase 2: Data Collection 
 
 **2.1 Platform Data (2-3 hours)**
 Access platform itself:
@@ -46,7 +46,7 @@ Access platform itself:
 - Screenshot key features/pages
 - Test accessibility (WCAG check)
 
-**2.2 Official Documentation (3-4 hours)**
+**2.2 Official Documentation **
 Collect:
 - Launch announcements
 - User guides
@@ -54,14 +54,14 @@ Collect:
 - Policy documents
 - Budget information
 
-**2.3 Academic/Media Sources (3-4 hours)**
+**2.3 Academic/Media Sources **
 Search:
 - Google Scholar: "[platform name] participation"
 - News archives: Coverage of platform
 - Social media: User discussions
 - Academic databases (if available)
 
-**2.4 Primary Data (Optional, 4-6 hours)**
+**2.4 Primary Data (Optional)**
 If resources allow:
 - 5-10 user interviews (30 min each)
 - 3-5 official interviews
@@ -70,21 +70,21 @@ If resources allow:
 
 ---
 
-### Phase 3: CDV Evaluation (8-12 hours)
+### Phase 3: CDV Evaluation 
 
-**For each dimension (1-1.5 hours per dimension):**
+**For each dimension :**
 
-**Step 1: Individual Scoring (20 min)**
+**Step 1: Individual Scoring **
 - Each evaluator reads scale descriptions
 - Scores 1-5 independently
 - Writes brief rationale
 
-**Step 2: Group Discussion (30 min)**
+**Step 2: Group Discussion **
 - Share scores
 - Discuss discrepancies
 - Present evidence
 
-**Step 3: Consensus (10-15 min)**
+**Step 3: Consensus **
 - Agree on final score (or document split)
 - Write final rationale
 - List supporting evidence
@@ -93,9 +93,9 @@ If resources allow:
 
 ---
 
-### Phase 4: Analysis & Writing (6-10 hours)
+### Phase 4: Analysis & Writing 
 
-**4.1 Draft Core Sections (4-6 hours)**
+**4.1 Draft Core Sections **
 Priority order:
 1. CDV Evaluation (most important)
 2. Evidence & Data
@@ -103,13 +103,13 @@ Priority order:
 4. Platform Description
 5. Lessons Learned
 
-**4.2 Comparative Analysis (1-2 hours)**
+**4.2 Comparative Analysis **
 Compare with:
 - Similar platforms (same country/region)
 - Best practices (Barcelona, Reykjavik)
 - Your own benchmarks
 
-**4.3 Recommendations (1-2 hours)**
+**4.3 Recommendations **
 Based on:
 - Low-scoring dimensions (what to improve)
 - High-scoring dimensions (what to maintain)
@@ -117,7 +117,7 @@ Based on:
 
 ---
 
-### Phase 5: Review & Finalize (2-4 hours)
+### Phase 5: Review & Finalize 
 
 **5.1 Internal Review**
 - All evaluators read full draft
@@ -227,7 +227,6 @@ If data unavailable for dimension:
 - [ ] Context (why/how platform created)
 - [ ] At least 5 references
 
-**Total:** ~5,000-8,000 words, ~20-30 pages
 
 ---
 
@@ -241,8 +240,6 @@ If data unavailable for dimension:
 - [ ] Recommendations (high/medium/long-term)
 - [ ] Demographic analysis
 - [ ] 10+ academic references
-
-**Total:** ~15,000-25,000 words, ~60-100 pages
 
 ---
 
@@ -258,7 +255,6 @@ If data unavailable for dimension:
 - [ ] Replication package (data, code if applicable)
 - [ ] 20+ sources
 
-**Example:** Barcelona Decidim case study in this repository
 
 ---
 
