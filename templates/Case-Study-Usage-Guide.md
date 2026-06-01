@@ -482,22 +482,13 @@ Authors will revise or explain if disputed.
 
 **Understanding CDV Framework:**
 - [CDV Framework Documentation](https://github.com/CDV-Framework/CDV-Framework) - Read this first!
-- [Theoretical Foundations](../research/theoretical-foundations.md)
 - [Dimension Guides](../framework/dimensions/) - Detailed explanations
-
-**Case Study Methods:**
-- Yin, R. K. (2018). *Case study research and applications*. Sage.
-- Gerring, J. (2017). *Case study research: Principles and practices*. Cambridge UP.
-
-**Participatory Evaluation:**
-- Cousins, J. B., & Whitmore, E. (1998). Framing participatory evaluation. *New Directions for Evaluation*, 80, 5-23.
 
 ### Support
 
 **Questions?**
-- GitHub Discussions: https://github.com/CDV-Framework/CDV-Framework/discussions
+
 - Email: almel@eellak.gr
-- Monthly Office Hours: First Tuesday of month, 17:00-18:00 CET (Zoom link in discussions)
 
 **Need help?**
 - Methodological questions: Post in Discussions
@@ -518,14 +509,8 @@ Authors will revise or explain if disputed.
 - Initial guide
 - Based on experience with Barcelona/OpenGov.gr cases
 
-**Future additions:**
-- Video walkthrough
-- Webinar recordings
-- More language versions
-- Domain-specific guides (health, education, etc.)
 
 ---
 
-**Happy Evaluating! 🎯**
 
 *Remember: Perfect case study doesn't exist. Done is better than perfect. Your contribution advances the field.*
