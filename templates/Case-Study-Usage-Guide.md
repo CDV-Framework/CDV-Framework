@@ -39,7 +39,7 @@
 
 ### Phase 2: Data Collection 
 
-**2.1 Platform Data (2-3 hours)**
+**2.1 Platform Data **
 Access platform itself:
 - Create account, explore features
 - Download statistics if available
