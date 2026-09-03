@@ -1,0 +1,56 @@
+dimension,level,anchor
+D1 Co-Design of process,1,Government-only design; no citizen input
+D1 Co-Design of process,2,Citizens informed after the process is designed; non-binding comment
+D1 Co-Design of process,3,Consultative design incorporating citizen feedback on a government-drafted process
+D1 Co-Design of process,4,"Active co-design within government-set parameters (e.g. timing, scope fixed)"
+D1 Co-Design of process,5,"Citizens hold equal or controlling power over process design (methods, tools, timing, rules)"
+D2 Co-Agenda setting,1,Fully imposed government agenda
+D2 Co-Agenda setting,2,Selection from a predefined menu; priority voting; government makes the final selection
+D2 Co-Agenda setting,3,Mixed agenda allowing citizen proposals alongside government topics
+D2 Co-Agenda setting,4,"Agenda co-shaped through deliberative dialogue; iterative, consensus-building"
+D2 Co-Agenda setting,5,"Citizens control which topics enter the arena, within broad mandates"
+D3a Co-Production,1,Passive reception of government-produced content
+D3a Co-Production,2,Commenting on pre-drafted legislation
+D3a Co-Production,3,Citizens produce proposals that the organisation aggregates
+D3a Co-Production,4,Citizens and organisation co-develop content and solutions
+D3a Co-Production,5,Equal partnership: citizens co-author content with decisional weight over final outputs
+D3b Co-Governance,1,Full government control of the platform
+D3b Co-Governance,2,Citizens can flag or report issues
+D3b Co-Governance,3,User representatives sit on an advisory body
+D3b Co-Governance,4,Shared decision-making over selected governance domains (e.g. moderation rules and/or feature development)
+D3b Co-Governance,5,Fully democratic governance with equal citizen participation in platform decisions
+D4 Co-Analysis of data,1,Closed ministerial or organisational analysis
+D4 Co-Analysis of data,2,"Aggregate results published in structured, reusable form; no access to raw data"
+D4 Co-Analysis of data,3,Open raw-data access without analytical support
+D4 Co-Analysis of data,4,"Tools and support for participatory analysis (visualisation, workshops, technical support)"
+D4 Co-Analysis of data,5,Full collaborative analysis; iterative joint interpretation by diverse stakeholders
+D5 Co-Evaluation of impact,1,No public impact evaluation
+D5 Co-Evaluation of impact,2,Internal evaluation; the organisation evaluates and publishes; no external verification
+D5 Co-Evaluation of impact,3,"Open, independent evaluation is possible, but with no binding commitment to integrate findings"
+D5 Co-Evaluation of impact,4,Participatory evaluation; mixed team; co-defined indicators; longitudinal tracking
+D5 Co-Evaluation of impact,5,Citizen-led co-evaluation; long-term studies; adaptive-learning cycles; shared ownership
+D6 Inclusion,1,Structural exclusion with active barriers
+D6 Inclusion,2,Passive accommodation with basic accessibility (e.g. WCAG)
+D6 Inclusion,3,Active outreach with targeted campaigns for underrepresented groups
+D6 Inclusion,4,"Comprehensive strategy (skills, hybrid, intersectional) with monitoring of differential influence across groups"
+D6 Inclusion,5,Full equitable participation; structural barrier removal and third-level inequality monitoring
+D7a Transparency,1,Black-box processes
+D7a Transparency,2,Basic information disclosed
+D7a Transparency,3,Open documentation; decision rationale
+D7a Transparency,4,Input-to-decision traceability for citizens
+D7a Transparency,5,"Full process, moderation and algorithmic traceability"
+D7b Accountability,1,No accountability
+D7b Accountability,2,Formal reporting only
+D7b Accountability,3,Explanation of decisions
+D7b Accountability,4,Appeal or redress mechanisms
+D7b Accountability,5,Enforceable accountability
+D7c Data protection,1,Opaque data use
+D7c Data protection,2,General privacy policy
+D7c Data protection,3,Regulatory compliance (GDPR or equivalent)
+D7c Data protection,4,Privacy-by-design; data minimisation beyond compliance
+D7c Data protection,5,Citizen data sovereignty and portability
+D7d Sustainability,1,Ad-hoc; no guarantees
+D7d Sustainability,2,Survival depends on the current administration's will; or a legal mandate exists but is nominal
+D7d Sustainability,3,Institutional or legal embedding with resourcing; continuity not yet demonstrated
+D7d Sustainability,4,Secured multi-year funding and institutional integration; continuity demonstrated within an administration
+D7d Sustainability,5,Continuity proven independent of governmental will (cross-partisan persistence) plus civic ownership
