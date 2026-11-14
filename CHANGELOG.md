@@ -21,7 +21,7 @@ Each entry records: what changed · why · category and rule · affected documen
 
 ---
 
-## [1.1] — unreleased
+## [1.1] — 2026-11-14 (frozen before validation)
 
 ### A. Researcher revisions
 

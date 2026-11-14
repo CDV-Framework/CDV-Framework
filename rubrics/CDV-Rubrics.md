@@ -1,6 +1,6 @@
 # CDV scoring rubrics
 
-**Version 1.1** (researcher revision of 1.0, frozen before validation; see [CHANGELOG](../CHANGELOG.md)).
+**Version 1.1** (researcher revision of 1.0, frozen on 14 November 2026 before validation; see [CHANGELOG](../CHANGELOG.md)).
 
 Anchors at Levels 1, 3 and 5 denote absence, partial realisation and full realisation of each democratic criterion. Levels 2 and 4 mark documented progress beyond the lower anchor without reaching the higher one.
 
