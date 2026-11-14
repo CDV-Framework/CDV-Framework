@@ -17,30 +17,30 @@ Source of version 1.0: Melidis, A. (2026). *Co-creation of Democratic Value: A F
 
 D1 Co-Design of process assesses citizen participation in designing the participatory process itself — selection of methods, tools, timing, and rules of engagement. Which topics are opened to participation is assessed under D2.
 
-1. Government-only design; no citizen input
+1. Organization-only design; no citizen input
 2. Citizens informed after the process is designed; non-binding comment
-3. Consultative design incorporating citizen feedback on a government-drafted process
-4. Active co-design within government-set parameters (e.g., fixed timing and tools)
+3. Consultative design incorporating citizen feedback on an organization-drafted process
+4. Active co-design within organization-set parameters (e.g., fixed timing and tools)
 5. Citizens hold equal or controlling power over process design (methods, tools, timing, rules)
 
 ### D2 — Co-Agenda setting
 *Who sets the participation agenda?*
 
-D2 Co-Agenda setting evaluates citizen capacity to determine what topics are opened to participation.
+D2 Co-Agenda setting assesses citizen capacity to determine what topics are opened to participation.
 
-1. Fully imposed government agenda
-2. Selection from a predefined menu; priority voting; government makes the final selection
-3. Mixed agenda allowing citizen proposals alongside government topics
+1. Agenda fully imposed by the organization
+2. Selection from a predefined menu or priority voting; the organization makes the final selection
+3. Mixed agenda allowing citizen proposals alongside the organization’s topics
 4. Agenda co-shaped through deliberative dialogue; iterative, consensus-building
 5. Citizens control which topics are opened to participation, within broad mandates
 
 ### D3a — Co-Production
 *Who creates proposals, solutions and policy drafts?*
 
-Co-Production evaluates citizen involvement in creating proposals, solutions, and policy drafts.
+D3a Co-Production assesses citizen involvement in creating proposals, solutions, and policy drafts.
 
-1. Passive reception of government-produced content
-2. Commenting on pre-drafted legislation
+1. Passive reception of organization-produced content
+2. Commenting on pre-drafted legislation or policy documents
 3. Citizens produce proposals that the organization aggregates
 4. Citizens and organization co-develop content and solutions
 5. Equal partnership: citizens co-author content with decisional weight over final outputs
@@ -48,9 +48,9 @@ Co-Production evaluates citizen involvement in creating proposals, solutions, an
 ### D3b — Co-Governance
 *Who governs the platform itself?*
 
-Co-Governance assesses citizens’ role in managing the platform itself — feature decisions, moderation policies, and governance structures.
+D3b Co-Governance assesses citizens’ role in managing the platform itself — feature decisions, moderation policies, and governance structures.
 
-1. Full government control of the platform
+1. Full control of the platform by the organization
 2. Citizens can flag/report issues
 3. User representatives sit on an advisory body
 4. Shared decision-making over selected governance domains (e.g., moderation rules and/or feature development)
@@ -59,7 +59,7 @@ Co-Governance assesses citizens’ role in managing the platform itself — feat
 ### D4 — Co-Analysis of data
 *Who interprets the participation data?*
 
-D4 Co-Analysis of data addresses who interprets participation data, whoever controls this interpretation holds power over how participation shapes policy.
+D4 Co-Analysis of data assesses who interprets participation data; whoever controls this interpretation holds power over how participation shapes policy.
 
 1. Closed ministerial/organizational analysis
 2. Aggregate results published in structured, reusable form; no access to raw data
@@ -75,7 +75,7 @@ D5 Co-Evaluation of impact assesses citizen participation in evaluating whether 
 1. No public impact evaluation
 2. Internal evaluation; organization evaluates and publishes; no external verification
 3. Open, independent evaluation (by researchers or citizens) is possible, but with no binding commitment to integrate findings
-4. Participatory evaluation; mixed team; co-defined indicators; longitudinal tracking
+4. Participatory evaluation; mixed team (citizens and organization); co-defined indicators; longitudinal tracking
 5. Citizens lead the evaluation (they set its questions and indicators and validate its findings); it covers the medium- and long-term horizons, and there is a binding commitment to integrate its findings into the redesign of the next cycle; the evaluation is owned jointly by citizens and the organization: its data, methods and findings are open and reusable by citizens
 
 ---
@@ -85,31 +85,31 @@ D5 Co-Evaluation of impact assesses citizen participation in evaluating whether 
 ### D6 — Inclusion
 *Who actually participates and is heard, not only who can participate?*
 
-D6 Inclusion evaluates substantive inclusion of all citizen groups, particularly marginalized populations, across all participation stages, along the access, skills and outcomes divides.
+D6 Inclusion assesses substantive inclusion of all citizen groups, particularly marginalized populations, across all participation stages, along the access, skills and outcomes divides.
 
 1. Structural exclusion with active barriers
 2. Passive accommodation with basic accessibility (e.g., WCAG)
 3. Active outreach with targeted campaigns for underrepresented groups
 4. Comprehensive strategy (skills, hybrid, intersectional) with monitoring of differential influence across groups (second- and third-level divides tracked)
-5. Full equitable participation; structural barrier removal and third-level inequality monitoring
+5. Full equitable participation; structural barrier removal and third-level inequality monitoring that triggers corrective action
 
 D6 applies a three-level digital divide model (access, skills, outcomes) across five intersectional axes: socioeconomic status, geographic location, demographic characteristics, capabilities, and digital competency.
 
 ### D7a — Transparency
 *Can citizens see how the process works and how their input was treated?*
 
-Transparency assesses openness regarding processes, decisions, algorithms, moderation choices, and results — including whether citizens can understand how their input was treated.
+D7a Transparency assesses openness regarding processes, decisions, algorithms, moderation choices, and results — including whether citizens can understand how their input was treated.
 
 1. Black-box processes
 2. Basic information disclosed
-3. Open documentation; decision rationale
+3. Open documentation; published decision rationale
 4. Input-to-decision traceability for citizens
 5. Full process, moderation, and algorithmic traceability
 
 ### D7b — Accountability
 *Who can oblige the organization to justify or revisit what it decided?*
 
-Accountability assesses whether the organization is obliged to justify to participants and oversight bodies how their input was treated, and whether participants, oversight bodies and civil society can contest that justification with consequences for the organization (vertical, horizontal, diagonal and social channels).
+D7b Accountability assesses whether the organization is obliged to justify to participants and oversight bodies how their input was treated, and whether participants, oversight bodies and civil society can contest that justification with consequences for the organization (vertical, horizontal, diagonal and social channels).
 
 1. No accountability
 2. Formal reporting only
@@ -120,7 +120,7 @@ Accountability assesses whether the organization is obliged to justify to partic
 ### D7c — Data protection
 *Who controls participants’ personal data?*
 
-Data protection examines data minimization, purpose limitation, informed consent architecture, and citizen control rights over their personal participation data.
+D7c Data protection assesses data minimization, purpose limitation, informed consent architecture, and citizen control rights over their personal participation data.
 
 1. Opaque data use
 2. General privacy policy
@@ -131,13 +131,13 @@ Data protection examines data minimization, purpose limitation, informed consent
 ### D7d — Sustainability
 *Will the process continue regardless of who governs?*
 
-Sustainability assesses political commitment beyond founding administrations, legal embedding, secured multi-year funding, institutional integration across government levels, and civic ownership enabling continuity independent of governmental will.
+D7d Sustainability assesses political commitment beyond founding administrations, legal embedding, secured multi-year funding, institutional integration across government levels, and civic co-ownership enabling continuity independent of governmental will.
 
 1. Ad-hoc; no guarantees
 2. Survival depends on the current administration's will; or a legal mandate exists but is nominal (no resourcing or continuity)
 3. Institutional/legal embedding with resourcing; continuity not yet demonstrated
 4. Secured multi-year funding and institutional integration; continuity demonstrated within an administration
-5. Continuity proven independent of governmental will (cross-partisan persistence) + civic ownership
+5. Continuity proven independent of governmental will (cross-partisan persistence) + civic co-ownership
 
 ---
 

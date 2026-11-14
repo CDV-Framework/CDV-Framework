@@ -60,6 +60,24 @@ Each entry records: what changed · why · category and rule · affected documen
   *Why:* made explicit in the FOSSCOMM 2026 worksheet; applies the existing "Evidence, not intention" rule.
   *Affected:* `rubrics/CDV-Rubrics.md`.
 
+- **"Organization" throughout.** "Government" → "organization" in D1 L1, L3, L4, D2 L1–L3, D3a L1 and D3b L1, as already used in D3a L3–L4, D4, D5 and D7b and throughout the Greek text.
+  *Why:* CDV evaluates processes run by municipalities, agencies or associations as well as governments; the mixed wording of 1.0 was inconsistent.
+  *Affected:* `rubrics/CDV-Rubrics.md`, `rubrics/cdv-rubrics.csv`.
+- **Wording clarifications from the EN/EL equivalence check.** D2 L2 "menu or priority voting" (either suffices, as in the Greek); D3a L2 "legislation or policy documents"; D5 L4 "mixed team (citizens and organization)"; D6 L5 monitoring "that triggers corrective action" (the L4 monitoring is no longer repeated as the L5 criterion); D7a L3 "published decision rationale"; D7d "civic co-ownership"; one opening pattern for all definitions ("Dx Name assesses …"); D4 punctuation.
+  *Why:* each closes a reading that the two language versions did not share or that did not separate adjacent levels. The Greek text was corrected in the same pass where it diverged from the English (e.g. D5 L3 and L5 "binding", D6 "intersectional", D7d "administration").
+  *Affected:* `rubrics/CDV-Rubrics.md`, `rubrics/cdv-rubrics.csv`; Greek working text.
+
+### EN/EL equivalence check
+
+Back-translation in two passes (14 November 2026): a blind translation of the Greek text into English by one reviewer, then a comparison with the English source by a second reviewer who had not seen the first; the revised items went through a second round. Both reviewers were AI agents working independently; every finding was checked and decided by the researcher.
+
+### Known issues carried to 2.0
+
+- D5 L3 "is possible": whether permitted or actively enabled (with data and access provided) is open in both languages.
+- D2 L5 "within broad mandates": who sets the mandate is not stated.
+
+Both are left to the distinctiveness study and the expert panel rather than settled before validation.
+
 ### Notes (no change to the framework)
 
 - **Dissertation Ch. 4 aligned with 1.0.** Four descriptors in Ch. 4 §4.4 diverged from Appendix A of the EGOV paper (D2 L5, D3a L5, D5 L3, D7a L4–5); the chapter now follows 1.0. Two related corrections in §4.4.3: D3a L4 no longer mentions decisions, and the D3b definition no longer includes the process.
